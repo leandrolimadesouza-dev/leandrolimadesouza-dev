@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Fala+aí+👋;Eu+sou+ o+Leandro+Souza;Futuro +Desenvolvedor+Full+Stack;Sempre+evoluindo+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Fala+aí+👋;Eu+sou+Leandro+Souza;Futuro+Desenvolvedor+Full+Stack;Sempre+evoluindo+🚀">
 </h1>
 
 <p align="center">
@@ -34,13 +34,6 @@
 ### 🔥 Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=leandrolimadesouza-dev&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribuições (Snake)
-<p align="center">
-<img src="https://github.com/leandrolimadesouza-dev/leandrolimadesouza-dev/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
